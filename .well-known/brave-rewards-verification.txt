@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mvvn.xyz
+Token: af88b9ea10b10c2a597ec3a2808bab9ccc1424a1293f6cfd47e8632316c8ce87
